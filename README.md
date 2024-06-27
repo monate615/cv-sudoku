@@ -45,7 +45,7 @@
     ```
 * The GUI Homepage that opens up as soon as you run the application.
 
-    ![](https://github.com/monate615/cv-sudoku/Screenshots/1.png)
+    ![](https://github.com/monate615/cv-sudoku/blob/main/Screenshots/1.png)
 
 * You need to select an image of a Sudoku Puzzle through the GUI Home Page.
 
